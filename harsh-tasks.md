@@ -1,6 +1,6 @@
 
 - [x] revision authorisation, tokens, jwt, encryption.
-- [ ] joins for sql table 
+- [x] joins for sql table 
 - [ ] sql basics
 - [ ] 6 pushups 
 - [ ] 4000 steps walking 
